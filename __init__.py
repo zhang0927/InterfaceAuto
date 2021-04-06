@@ -1,6 +1,12 @@
 import requests
 import unittest
 import MySQLdb
+import os,sys
+
+dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.append(dir)
+sys.path.append("F:\\python\\YitihuaInterface\\venv\\Lib\\site-packages")
+
 
 class Test(unittest.TestCase):
 
