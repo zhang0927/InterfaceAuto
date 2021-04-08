@@ -1,0 +1,61 @@
+{
+  "uid" : "e0797f8da75bc198",
+  "name" : "test_case_04",
+  "fullName" : "test#test_case_04",
+  "historyId" : "ed1dc713dbd357f1eaa4dcdb909e1d06",
+  "time" : {
+    "start" : 1617884254250,
+    "stop" : 1617884254250,
+    "duration" : 0
+  },
+  "description" : "\n    用例描述：Test case 04\n    ",
+  "descriptionHtml" : "<pre><code>用例描述：Test case 04\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "story",
+    "value" : "test_story_02"
+  }, {
+    "name" : "feature",
+    "value" : "test_module_01"
+  }, {
+    "name" : "suite",
+    "value" : "test"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-K5SBU519"
+  }, {
+    "name" : "thread",
+    "value" : "14236-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e0797f8da75bc198.json",
+  "parameterValues" : [ ]
+}

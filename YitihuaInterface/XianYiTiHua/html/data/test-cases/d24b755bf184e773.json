@@ -1,0 +1,67 @@
+{
+  "uid" : "d24b755bf184e773",
+  "name" : "test_case_01",
+  "fullName" : "test#test_case_01",
+  "historyId" : "8977358e7d780b8076290d38c3392cd1",
+  "time" : {
+    "start" : 1617884254056,
+    "stop" : 1617884254058,
+    "duration" : 2
+  },
+  "description" : "\n    用例描述：Test case 01\n    ",
+  "descriptionHtml" : "<pre><code>用例描述：Test case 01\n</code></pre>\n",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 0",
+  "statusTrace" : "@allure.feature('test_module_01')\n    @allure.story('test_story_01')\n    @allure.severity('blocker')\n    def test_case_01():\n        \"\"\"\n        用例描述：Test case 01\n        \"\"\"\n>       assert 0\nE       assert 0\n\ntest.py:12: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "story",
+    "value" : "test_story_01"
+  }, {
+    "name" : "feature",
+    "value" : "test_module_01"
+  }, {
+    "name" : "suite",
+    "value" : "test"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-K5SBU519"
+  }, {
+    "name" : "thread",
+    "value" : "14236-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "d24b755bf184e773.json",
+  "parameterValues" : [ ]
+}
