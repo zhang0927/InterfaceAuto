@@ -1,0 +1,75 @@
+{
+  "uid" : "dab19cd6f802536f",
+  "name" : "test_case_02",
+  "fullName" : "run#test_case_02",
+  "historyId" : "73787b8f3a4bb247ddf9d65152b0f444",
+  "time" : {
+    "start" : 1618304884190,
+    "stop" : 1618304885692,
+    "duration" : 1502
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "1e3fb5cab5a26595",
+      "name" : "stdout",
+      "source" : "1e3fb5cab5a26595.txt",
+      "type" : "text/plain",
+      "size" : 2223
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "test_story_02"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "feature",
+    "value" : "test_module_01"
+  }, {
+    "name" : "suite",
+    "value" : "run"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-K5SBU519"
+  }, {
+    "name" : "thread",
+    "value" : "19036-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "run"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dab19cd6f802536f.json",
+  "parameterValues" : [ ]
+}

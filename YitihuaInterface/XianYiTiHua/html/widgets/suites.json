@@ -1,15 +1,15 @@
 {
   "total" : 1,
   "items" : [ {
-    "uid" : "ff2b04dbb9c449a4d40723f51d841925",
-    "name" : "test",
+    "uid" : "c18d7a523b62be7460958f9788817bd8",
+    "name" : "run",
     "statistic" : {
-      "failed" : 2,
+      "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 2,
       "unknown" : 0,
-      "total" : 4
+      "total" : 2
     }
   } ]
 }
